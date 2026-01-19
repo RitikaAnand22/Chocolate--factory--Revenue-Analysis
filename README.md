@@ -82,9 +82,8 @@ A **custom calendar table** was created to enable:
 ---
 
 ## 📷 Dashboard Preview
-_Add screenshots inside the `screenshots/` folder and link them here_
 
-
+https://drive.google.com/file/d/1Kw56uP34OVDJ4cWzlbeKQy5xDJp00EGe/view?usp=sharing
 ---
 
 ## 👤 Author
