@@ -4,8 +4,9 @@
 ## 📊 Project Overview
 This project showcases an **interactive Power BI dashboard** built to analyze the sales performance of a chocolate manufacturing company.  
 The dashboard provides insights into **revenue trends, product performance, regional contribution, and salesperson effectiveness**, enabling data-driven business decisions.
-
+This project showcases a  **data modelling**  for setting up tables, relationships, calculations, and access to analytics scenarios.
 ---
+
 
 ## 🎯 Business Problem
 Stakeholders needed a centralized analytics solution to:
@@ -84,6 +85,11 @@ A **custom calendar table** was created to enable:
 ## 📷 Dashboard Preview
 
 https://drive.google.com/file/d/1Kw56uP34OVDJ4cWzlbeKQy5xDJp00EGe/view?usp=sharing
+**Data model-**
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/05066ef0-2c74-4ba3-a7eb-ea758e6f0f1e" />
+
+
+
 ---
 
 ## 👤 Author
